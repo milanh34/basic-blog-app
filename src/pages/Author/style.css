@@ -1,0 +1,30 @@
+.author-wrap {
+    max-width: 700px;
+    margin: 0 auto;
+  }
+  
+  .author-goBack {
+    cursor: pointer;
+    font-size: 0.8rem;
+    color: #a9a9a9;
+    font-weight: 500;
+    margin-bottom: 2rem;
+    display: block;
+    text-decoration: none;
+  }
+  
+  .author-wrap header {
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+  
+  .author-wrap header h1 {
+    font-size: 2rem;
+  }
+  
+  .author-wrap header p {
+    font-size: 1.2rem;
+    color: #555;
+    line-height: 1.5;
+  }
+  
