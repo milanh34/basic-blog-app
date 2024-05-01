@@ -107,7 +107,7 @@ export const blogList = [
     title: "Exploring the Wonders of Nature",
     category: "nature",
     subCategory: ["outdoors", "wildlife", "environment"],
-    description: "Discover the beauty and diversity of nature...",
+    description: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Debitis et, atque neque nihil, illo deserunt minus vel eveniet veritatis ipsa, qui doloremque alias. Voluptates vel consectetur officiis nihil enim ab facilis amet neque delectus doloribus fugiat, aspernatur reprehenderit illo vitae, qui inventore ex temporibus! Et consectetur expedita ut recusandae beatae?",
     authorName: "David Brown",
     authorId: 4,
     authorAvatar: '/assets/images/author.jpg',
@@ -141,7 +141,7 @@ export const blogList = [
     title: "The Art of Cooking: Mastering Culinary Skills",
     category: "cooking",
     subCategory: ["recipes", "techniques", "food"],
-    description: "Unlock the secrets of cooking like a professional chef...",
+    description: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Debitis et, atque neque nihil, illo deserunt minus vel eveniet veritatis ipsa, qui doloremque alias. Voluptates vel consectetur officiis nihil enim ab facilis amet neque delectus doloribus fugiat, aspernatur reprehenderit illo vitae, qui inventore ex temporibus! Et consectetur expedita ut recusandae beatae?",
     authorName: "Sarah Johnson",
     authorId: 5,
     authorAvatar: '/assets/images/make-it-personal.jpg',
@@ -171,9 +171,9 @@ export const blogList = [
 export const authorsList = [
   {
     id: 1,
-    name: "John Doe",
+    name: "Peter Parker",
     bio: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    avatar: "/assets/images/john-doe-avatar.jpg",
+    avatar: "/assets/images/author.jpg",
   },
   {
     id: 2,
